@@ -31,7 +31,7 @@ Data that are out of scope: all private data that can not be shared easily, such
 ## I want to know more!
 
 - You can read more about the study in the [participant information sheet](assets/COVID-19 participant information sheet.pdf) - apologies if it's a bit dry!
-- [GDPR Notice]()
+- [GDPR Notice](http://documents.manchester.ac.uk/display.aspx?DocID=37095)
 
 ## Where / when?
 

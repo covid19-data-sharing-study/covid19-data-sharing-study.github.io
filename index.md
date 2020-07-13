@@ -26,7 +26,7 @@ Data that are out of scope: all private data that can not be shared easily, such
 - Sign up to do an interview:
   - Use [Calendly](https://calendly.com/yo-yehudi-manchester/covid-19-data-sharing-study?month=2020-07) to sign up for a short video/audio interview or text chat. Interviews will take 20-30 minutes.
   - Email Yo Yehudi at yochannah.yehudi@postgrad.manchester.ac.uk for more info, or DM me on twitter if I follow you. I'm [@yoyehudi](https://twitter.com/yoyehudi).
-- Share word with others via Twitter. You can retweet [this tweet](TODO ADD TWEET LINK).
+- Share word with others via Twitter. You can retweet [this tweet](https://twitter.com/yoyehudi/status/1282624763224100866).
 
 ## I want to know more!
 

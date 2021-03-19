@@ -28,6 +28,11 @@ Data that are out of scope: all private data that can not be shared easily, such
   - Email Yo Yehudi at yochannah.yehudi@postgrad.manchester.ac.uk for more info, or DM me on twitter if I follow you. I'm [@yoyehudi](https://twitter.com/yoyehudi).
 - Share word with others via Twitter. You can retweet [this tweet](https://twitter.com/yoyehudi/status/1282624763224100866).
 
+<!-- Calendly inline widget begin -->
+<div class="calendly-inline-widget" data-url="https://calendly.com/yo-yehudi-manchester/covid-19-data-sharing-study" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
+
 ## I want to know more!
 
 - You can read more about the study in the [participant information sheet](assets/COVID-19 participant information sheet.pdf) - apologies if it's a bit dry!

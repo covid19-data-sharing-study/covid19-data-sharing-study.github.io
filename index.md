@@ -5,6 +5,12 @@ tags: covid data-availability 🦠
 date: 2020-01-12 17:52
 ---
 
+# Update July 2021
+
+After a long period of struggling to recruit, I've managed to get an amendedment from my ethics board allowing me to invite people directly to participate, so I'm giving this study a bit of an additional push. This also will give us the chance to see if subsequent waves have any differences compared to wave one, when this study was launched. 
+
+#  Original post
+
 Hi folks! I'm researching attitudes and challenges in COVID-19 related data access and data sharing, from a biology/bioinformatics research software engineer perspective.
 
 My research question will explore:
@@ -29,7 +35,7 @@ Data that are out of scope: all private data that can not be shared easily, such
 - Share word with others via Twitter. You can retweet [this tweet](https://twitter.com/yoyehudi/status/1282624763224100866).
 
 <!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/yo-yehudi-manchester/covid-19-data-sharing-study" style="min-width:320px;height:630px;"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/yo-yehudi-manchester/covid-19-data-sharing-study" style="min-width:320px;height:830px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->
 

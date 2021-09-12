@@ -9,5 +9,9 @@ show-in-nav: true
 ## Preliminary results 
 Preliminary results for this study will be presented at Data For Policy 2021. 
 
-- To be updated with links
 
+### Links
+
+- [Extended abstract](https://doi.org/10.5281/zenodo.5234416)
+- [Talk video](https://youtu.be/UTPxOyLKeHk)
+- [Slides](https://zenodo.org/record/5234426#.YT4Uz6DTVQI)

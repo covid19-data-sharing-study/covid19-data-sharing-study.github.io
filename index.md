@@ -5,6 +5,10 @@ tags: covid data-availability 🦠
 date: 2020-01-12 17:52
 ---
 
+# Update Nov 2021
+
+This survey is complete and currently in analysis and write-up phases. You can see interim result reporting at my [Data for Policy 2021 talk page](https://covid19-data-sharing-study.github.io/results/data-for-policy-2021)
+
 # Update July 2021
 
 After a long period of struggling to recruit, I've managed to get an amendedment from my ethics board allowing me to invite people directly to participate, so I'm giving this study a bit of an additional push. This also will give us the chance to see if subsequent waves have any differences compared to wave one, when this study was launched. 
@@ -30,11 +34,11 @@ Data that are out of scope: all private data that can not be shared easily, such
 ## How you can help:
 
 - Sign up to do an interview:
-  - Use [Calendly](https://calendly.com/yo-yehudi-manchester/covid-19-data-sharing-study?month=2020-07) to sign up for a short video/audio interview or text chat. Interviews will take 20-30 minutes.
+  -  **THIS IS NOW CLOSED** Use [Calendly](https://calendly.com/yo-yehudi-manchester/covid-19-data-sharing-study?month=2020-07) to sign up for a short video/audio interview or text chat. Interviews will take 20-30 minutes.
   - Email Yo Yehudi at yochannah.yehudi@postgrad.manchester.ac.uk for more info, or DM me on twitter if I follow you. I'm [@yoyehudi](https://twitter.com/yoyehudi).
 - Share word with others via Twitter. You can retweet [this tweet](https://twitter.com/yoyehudi/status/1282624763224100866).
 
-<!-- Calendly inline widget begin -->
+<!-- Calendly inline widget begin 
 <div class="calendly-inline-widget" data-url="https://calendly.com/yo-yehudi-manchester/covid-19-data-sharing-study" style="min-width:320px;height:830px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->

@@ -11,7 +11,7 @@ This survey is complete and currently in analysis and write-up phases. You can s
 
 # Update July 2021
 
-After a long period of struggling to recruit, I've managed to get an amendedment from my ethics board allowing me to invite people directly to participate, so I'm giving this study a bit of an additional push. This also will give us the chance to see if subsequent waves have any differences compared to wave one, when this study was launched. 
+After a long period of struggling to recruit, I've managed to get an amendedment from my ethics board allowing me to invite people directly to participate, so I'm giving this study a bit of an additional push. This also will give us the chance to see if subsequent waves have any differences compared to wave one, when this study was launched.
 
 #  Original post
 
@@ -38,7 +38,7 @@ Data that are out of scope: all private data that can not be shared easily, such
   - Email Yo Yehudi at yochannah.yehudi@postgrad.manchester.ac.uk for more info, or DM me on twitter if I follow you. I'm [@yoyehudi](https://twitter.com/yoyehudi).
 - Share word with others via Twitter. You can retweet [this tweet](https://twitter.com/yoyehudi/status/1282624763224100866).
 
-<!-- Calendly inline widget begin 
+<!-- Calendly inline widget begin
 <div class="calendly-inline-widget" data-url="https://calendly.com/yo-yehudi-manchester/covid-19-data-sharing-study" style="min-width:320px;height:830px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->
@@ -47,6 +47,7 @@ Data that are out of scope: all private data that can not be shared easily, such
 
 - You can read more about the study in the [participant information sheet](assets/COVID-19 participant information sheet.pdf) - apologies if it's a bit dry!
 - [GDPR Notice](http://documents.manchester.ac.uk/display.aspx?DocID=37095)
+- [Data management plan](assets/COVID19 DMP.pdf)
 
 ## Where / when?
 

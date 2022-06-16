@@ -15,7 +15,7 @@ This survey is complete and currently in analysis and write-up phases. You can s
 
 # Update July 2021
 
-After a long period of struggling to recruit, I've managed to get an amendedment from my ethics board allowing me to invite people directly to participate, so I'm giving this study a bit of an additional push. This also will give us the chance to see if subsequent waves have any differences compared to wave one, when this study was launched.
+After a long period of struggling to recruit, I've managed to get an amendment from my ethics board allowing me to invite people directly to participate, so I'm giving this study a bit of an additional push. This also will give us the chance to see if subsequent waves have any differences compared to wave one, when this study was launched.
 
 #  Original post
 

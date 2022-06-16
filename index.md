@@ -5,6 +5,10 @@ tags: covid data-availability 🦠
 date: 2020-01-12 17:52
 ---
 
+# Update June 2022
+
+This research is complete - see [results](results) for more info!
+
 # Update Nov 2021
 
 This survey is complete and currently in analysis and write-up phases. You can see interim result reporting at my [Data for Policy 2021 talk page](https://covid19-data-sharing-study.github.io/results/data-for-policy-2021)
@@ -33,8 +37,9 @@ Data that are out of scope: all private data that can not be shared easily, such
 
 ## How you can help:
 
-- Sign up to do an interview:
-  -  **THIS IS NOW CLOSED** Use [Calendly](https://calendly.com/yo-yehudi-manchester/covid-19-data-sharing-study?month=2020-07) to sign up for a short video/audio interview or text chat. Interviews will take 20-30 minutes.
+- Share the preprint: [https://doi.org/10.48550/arXiv.2205.12098](https://doi.org/10.48550/arXiv.2205.12098)
+- **THIS IS NOW CLOSED** Sign up to do an interview:
+  -  Use [Calendly](https://calendly.com/yo-yehudi-manchester/covid-19-data-sharing-study?month=2020-07) to sign up for a short video/audio interview or text chat. Interviews will take 20-30 minutes.
   - Email Yo Yehudi at yochannah.yehudi@postgrad.manchester.ac.uk for more info, or DM me on twitter if I follow you. I'm [@yoyehudi](https://twitter.com/yoyehudi).
 - Share word with others via Twitter. You can retweet [this tweet](https://twitter.com/yoyehudi/status/1282624763224100866).
 
